@@ -2,5 +2,6 @@
 "name": "AdaYield Stake Pool",
 "description": "We are the only pool that share its revenue with delegators and with our own AdaYield token holders. AdaYield - the token that Pays NOT to Sell! To learn more, visit https://adayield.io. Let's grow together!",
 "ticker": "AY1",
-"homepage": "https://adayield.io"
+"homepage": "https://adayield.io",
+"extended": "https://raw.githubusercontent.com/RanzoShark/adayield-stakepool/main/extended-meta.json"
 }
